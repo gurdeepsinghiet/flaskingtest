@@ -1,0 +1,19 @@
+{% extends "base2.html" %}
+{% block content %}
+<div>
+{% for emp in employees %}
+<p>
+    <h1>{{ emp.name }}</h1>
+     <h1>{{ emp.Department }}</h1>
+     <h1>{{ emp.designation }}</h1>
+     <h1>{{ emp.salary }}</h1>
+</p>
+
+{% endfor  %}
+</div>
+{% endblock %}
+
+
+
+
+

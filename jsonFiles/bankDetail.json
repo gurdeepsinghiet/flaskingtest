@@ -1,0 +1,10 @@
+{
+  "BankDetail": {
+    "name": "Gurdeep singh",
+    "AccountNo" : "122345678",
+     "iffCODE" : "icici56789",
+     "Currency" : "Rupees",
+     "BrachCode"  : "99910005678",
+     "Bank"   : "HDFC"
+  }
+}
