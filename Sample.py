@@ -6,7 +6,7 @@ class sample(object):
 
 
     def fun(self):
-        return 2*self.x
+        return 4*self.x
 
 
     def fun1(self,y):
